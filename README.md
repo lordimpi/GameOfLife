@@ -26,6 +26,8 @@ Para iniciar el juego, simplemente ejecuta el archivo `main.py` usando Python. P
 - Espacio: Pausa o reanuda la simulación.
 - R: Reinicia el juego con la configuración inicial.
 - T: Reinicia el juego con un estado aleatorio.
+- Q: Amuenta la velocidad.
+- W: Disminuye la velocidad.
 - ESC: Salir del juego.
 - Click izquierdo: Agrega una célula viva en la posición del cursor.
 - Click derecho: Elimina una célula viva en la posición del cursor.
